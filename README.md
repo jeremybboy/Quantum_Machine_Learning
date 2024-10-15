@@ -12,9 +12,16 @@ pip install qiskit
 Run the notebook for the QNN regression example.
 
 Quantum Machine Learning Types:
-This project focuses on CQ (Classical data, Quantum processing). Below is a visual explanation:
+
 
 ![QML Types](images/4_types.PNG)
 
+In Quantum Machine Learning (QML), there are four main types based on the data and processing involved:
+
+CC (Classical Data, Classical Processing): Standard machine learning.
+CQ (Classical Data, Quantum Processing): Classical data processed with quantum algorithms.
+QC (Quantum Data, Classical Processing): Quantum data processed with classical algorithms.
+QQ (Quantum Data, Quantum Processing): Quantum data processed by quantum algorithms.
+In this tutorial, we focus on CQ because we process classical data using quantum circuits, allowing us to leverage quantum computing's advantages for machine learning tasks like regression.
 
 
