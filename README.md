@@ -7,7 +7,7 @@ QNN for Regression: Learn how to integrate quantum circuits to model a regressio
 Focus: We work with classical data and quantum processing (CQ) to illustrate the power of quantum circuits in machine learning.
 Getting Started:
 ### Install dependencies:
-pip install qiskit
+      pip install qiskit
 
 Run the notebook for the QNN regression example.
 
