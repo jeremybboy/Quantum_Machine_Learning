@@ -14,7 +14,7 @@ Run the notebook for the QNN regression example.
 Quantum Machine Learning Types:
 
 
-![QML Types](images/4_types.PNG)
+![QML Types](images/4_typess.PNG)
 
 In Quantum Machine Learning (QML), there are four main types based on the data and processing involved:
 
