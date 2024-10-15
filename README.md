@@ -14,6 +14,7 @@ Run the notebook for the QNN regression example.
 Quantum Machine Learning Types:
 This project focuses on CQ (Classical data, Quantum processing). Below is a visual explanation:
 
+![QML Types](images/4_types.PNG)
 
 
 
